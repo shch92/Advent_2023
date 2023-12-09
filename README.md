@@ -1,4 +1,5 @@
 Author: Shreyas (Yash) Chitransh
+
 Created this project to work on the Advent of Code challeneg in December 2023, created by Eric Wastl. 
 
 The introduction below is taken from Advent of Code website About Section as they explain it best:
